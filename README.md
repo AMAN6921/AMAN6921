@@ -13,5 +13,5 @@
 📫 Let's Connect:
 📧 Email: aman.devrani6921@gmail.com
 🔗 LinkedIn: linkedin.com/in/aman-devrani
-📸 Instagram: [Your Instagram Handle]
+📸 Instagram: amanhashingitout
 
