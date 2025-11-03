@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Aman Devrani
 
-### 🚀 Full-Stack Developer | AI/ML Enthusiast | Cloud Computing Specialist
+### 🚀 Full-Stack Developer | AI/ML & Data Science Enthusiast | Cloud Computing Specialist
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-amandevrani.vercel.app-blue?style=for-the-badge&logo=vercel)](https://amandevrani.vercel.app)
 [![GitHub](https://img.shields.io/badge/GitHub-AMAN6921-181717?style=for-the-badge&logo=github)](https://github.com/AMAN6921)
@@ -15,7 +15,7 @@
 
 ## 🎯 About Me
 
-I'm a passionate developer focused on creating innovative solutions at the intersection of **AI/ML**, **Cloud Computing**, and **Full-Stack Development**. I love tackling complex problems and building systems that make a real impact.
+I'm a passionate developer focused on creating innovative solutions at the intersection of **AI/ML**, **Data Science**, **Cloud Computing**, and **Full-Stack Development**. I love tackling complex problems and building systems that make a real impact.
 
 - 🔭 Currently working on AI-powered applications and cloud optimization systems
 - 🌱 Exploring advanced machine learning algorithms and distributed systems
@@ -71,7 +71,7 @@ I'm a passionate developer focused on creating innovative solutions at the inter
 
 ## 🌟 Featured Projects
 
-### 🤖 [Loan Prediction AI System](https://github.com/AMAN6921/Loan-Prediction-AI-System)
+### 🤖 [Loan Prediction AI System](https://github.com/AMAN6921/A-Practical-Pre-Approved-Loan-Allocation-Model-Using-Machine-Learning-Algorithms-Neural-Processing)
 **AI-powered loan approval prediction with 94.5% accuracy**
 - Built ensemble ML system using XGBoost, Random Forest, and Neural Networks
 - Full-stack application with React frontend and Flask backend
@@ -89,7 +89,7 @@ I'm a passionate developer focused on creating innovative solutions at the inter
 - Intelligent bus allocation based on demand and location
 - MySQL database with optimized queries and indexing
 
-**Tech:** Node.js, Express, Socket.io, MySQL, Leaflet.js
+**Tech:** Node.js, Express.js, Socket.io, MySQL, Leaflet.js, JavaScript, HTML, CSS
 
 ---
 
@@ -100,7 +100,7 @@ I'm a passionate developer focused on creating innovative solutions at the inter
 - Interactive data visualizations and feature importance analysis
 - Achieved R² score of 0.87 with ensemble methods
 
-**Tech:** Python, scikit-learn, Pandas, Matplotlib, Flask
+**Tech:** Python, scikit-learn, Pandas, Matplotlib, Flask, React, Regression Models
 
 ---
 
@@ -111,18 +111,18 @@ I'm a passionate developer focused on creating innovative solutions at the inter
 - Handles CPU, RAM, storage, and bandwidth allocation
 - 92.5% average utilization with < 100ms allocation time
 
-**Tech:** Python, NumPy, Dynamic Programming, Optimization Algorithms
+**Tech:** Python, C++, NumPy, Dynamic Programming, Optimization Algorithms
 
 ---
 
-### 🚦 [EcoDrive - AI Traffic Optimization](https://github.com/AMAN6921/AI-Powered-Smart-Traffic-Flow-Optimization-System)
+### 🚦 [EcoDrive - AI Traffic Optimization](https://github.com/AMAN6921/EcoDrive-A-Software-Based-AI-System-for-Sustainable-and-Fuel-Efficient-Driving)
 **AI-powered traffic signal optimization for reduced emissions**
 - Real-time vehicle detection using YOLOv8 and OpenCV
 - Dynamic signal timing based on traffic density
 - Reduces vehicle idling and carbon emissions
 - ML-based continuous learning from traffic patterns
 
-**Tech:** Python, TensorFlow, YOLOv8, OpenCV, Computer Vision
+**Tech:** Python, TensorFlow, YOLOv8, OpenCV, PyData Stack, PyTorch
 
 ---
 
@@ -133,7 +133,7 @@ I'm a passionate developer focused on creating innovative solutions at the inter
 - Web-based management dashboard with role-based access
 - Pre-configured environments for various programming courses
 
-**Tech:** Docker, LXC, Node.js, React, Linux, PostgreSQL
+**Tech:** Docker, LXC, Node.js, React, Linux, Ubuntu Server
 
 ---
 
