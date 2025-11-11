@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Aman Devrani
 
-### 🚀 Full-Stack Developer | AI/ML & Data Science Enthusiast | Cloud Computing Specialist
+### 🚀 Full-Stack Developer | AI/ML & Data Science Enthusiast
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-amandevrani.vercel.app-blue?style=for-the-badge&logo=vercel)](https://amandevrani.vercel.app)
 [![GitHub](https://img.shields.io/badge/GitHub-AMAN6921-181717?style=for-the-badge&logo=github)](https://github.com/AMAN6921)
