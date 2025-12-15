@@ -98,7 +98,7 @@ I'm a passionate developer focused on creating innovative solutions at the inter
 
 ---
 
-### 🏠 [House Price Predictor](https://github.com/AMAN6921/House-Price-Predictor-Based-On-Geographical-Location-Other-Property-Attributes)
+### 🏠 [PriceNest](https://github.com/AMAN6921/House-Price-Predictor-Based-On-Geographical-Location-Other-Property-Attributes)
 **ML-based real estate price prediction system**
 - Predicts house prices using geographical and property attributes
 - Multiple regression models with hyperparameter tuning
