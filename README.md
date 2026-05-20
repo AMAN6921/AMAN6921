@@ -149,16 +149,6 @@ const currentFocus = {
 
 ---
 
-## 📈 Contribution Graph
-
-<div align="center">
-
-[![Aman's github activity](https://github-readme-activity-graph.vercel.app/graph?username=AMAN6921&bg_color=1a1b27&color=38bdae&line=628fdb&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
 ## 📫 Let's Connect
 
 <div align="center">
