@@ -113,22 +113,11 @@ Computer Science student specializing in building **production-ready, scalable s
 
 ## 📊 GitHub Analytics
 
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AMAN6921&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AMAN6921&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
-
 </div>
 
 <div align="center">
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AMAN6921&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
-</div>
-
-<div align="center">
-
-[![Aman's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AMAN6921&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -191,9 +180,7 @@ const currentFocus = {
 
 <div align="center">
 
-### 💻 "First, solve the problem. Then, write the code."
-
-**Open to internships, collaborations, and exciting opportunities**
+### 💻 "It works on my machine ¯\_(ツ)_/¯"
 
 ⭐️ From [AMAN6921](https://github.com/AMAN6921)
 
