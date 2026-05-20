@@ -166,7 +166,6 @@ const currentFocus = {
 [![GitHub](https://img.shields.io/badge/GitHub-AMAN6921-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AMAN6921)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Aman_Devrani-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/amandevrani)
 [![Email](https://img.shields.io/badge/Email-aman.devrani6921%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aman.devrani6921@gmail.com)
-[![Phone](https://img.shields.io/badge/Phone-%2B91--6398252586-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+916398252586)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=AMAN6921&color=0e75b6&style=for-the-badge)
 
