@@ -8,6 +8,8 @@
 
 ---
 
+![Profile Views](https://komarev.com/ghpvc/?username=AMAN6921&color=0e75b6&style=for-the-badge)
+
 ## 🚀 About Me
 
 Computer Science student specializing in building **production-ready, scalable systems** using modern full-stack technologies. I architect and deploy **real-time MVPs** with the MERN stack, integrate **AI/ML pipelines** for intelligent decision-making, and optimize infrastructure through **containerization and cloud solutions**. My focus is on delivering high-impact software that solves real-world problems with clean architecture and measurable results.
@@ -156,8 +158,6 @@ const currentFocus = {
 [![GitHub](https://img.shields.io/badge/GitHub-AMAN6921-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AMAN6921)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Aman_Devrani-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/amandevrani)
 [![Email](https://img.shields.io/badge/Email-aman.devrani6921%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aman.devrani6921@gmail.com)
-
-![Profile Views](https://komarev.com/ghpvc/?username=AMAN6921&color=0e75b6&style=for-the-badge)
 
 </div>
 
