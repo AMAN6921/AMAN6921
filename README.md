@@ -4,11 +4,12 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI%2FML+Engineer;System+Design+Enthusiast;Building+Scalable+Solutions)](https://git.io/typing-svg)
 
+
+![Profile Views](https://komarev.com/ghpvc/?username=AMAN6921&color=0e75b6&style=for-the-badge)
 </div>
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=AMAN6921&color=0e75b6&style=for-the-badge)
 
 ## 🚀 About Me
 
