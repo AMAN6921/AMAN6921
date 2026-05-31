@@ -120,16 +120,6 @@ Computer Science student specializing in building **production-ready, scalable s
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=AMAN6921&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
 ## 🎯 Achievements & Leadership
 
 - 🏅 **Vice President - GEU-ACM Student Chapter** | Led **3+ large-scale technical events** with **500+ participants** including competitive programming, debugging contests, mini hackathons, and workshops
