@@ -7,9 +7,6 @@
 <br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=AMAN6921&color=2e9ef7&style=for-the-badge&label=PROFILE+VIEWS)
-&nbsp;
-[![GitHub followers](https://img.shields.io/github/followers/AMAN6921?label=Followers&style=for-the-badge&color=2e9ef7&logo=github)](https://github.com/AMAN6921)
-
 </div>
 
 ---
