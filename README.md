@@ -1,33 +1,48 @@
 <div align="center">
 
-# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hi, I'm Aman Devrani
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a3a5c,100:2e9ef7&height=200&section=header&text=Aman%20Devrani&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20%7C%20AI%2FML%20%7C%20System%20Design&descAlignY=58&descSize=20&animation=fadeIn" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI%2FML+Engineer;System+Design+Enthusiast;Building+Scalable+Solutions)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=2E9EF7&center=true&vCenter=true&width=700&lines=Building+production-ready+full-stack+systems;Architecting+AI%2FML+pipelines+%26+intelligent+apps;Containerization+%7C+DevOps+%7C+Cloud+Solutions;Vice+President+%40+GEU-ACM+Student+Chapter)](https://git.io/typing-svg)
 
+<br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=AMAN6921&color=0e75b6&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=AMAN6921&color=2e9ef7&style=for-the-badge&label=PROFILE+VIEWS)
+&nbsp;
+[![GitHub followers](https://img.shields.io/github/followers/AMAN6921?label=Followers&style=for-the-badge&color=2e9ef7&logo=github)](https://github.com/AMAN6921)
+
 </div>
 
 ---
 
+<div align="center">
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-Computer Science student specializing in building **production-ready, scalable systems** using modern full-stack technologies. I architect and deploy **real-time MVPs** with the MERN stack, integrate **AI/ML pipelines** for intelligent decision-making, and optimize infrastructure through **containerization and cloud solutions**. My focus is on delivering high-impact software that solves real-world problems with clean architecture and measurable results.
+</div>
 
-- 🔭 Building full-stack applications with **MERN stack** and deploying **AI-powered systems**
-- 🧠 Specializing in **Machine Learning**, **Neural Networks**, and **Ensemble Models**
-- 🏗️ Experienced in **system design**, **database optimization**, and **containerized deployments**
-- 🎯 Vice President @ **GEU-ACM Student Chapter** | Leading 500+ member technical community
-- 📊 Delivered projects serving **5000+ users** with **sub-2 second response times**
+I'm a Computer Science student focused on building **production-ready, scalable systems**. I architect full-stack applications with the MERN stack, design **AI/ML pipelines** for intelligent decision-making, and optimize infrastructure through **containerization and cloud solutions**. My work bridges clean engineering with real-world impact — from live GPS systems to ensemble ML models to full academic networking platforms.
 
----
+```yaml
+name       : Aman Devrani
+role       : Full Stack Developer · AI/ML Engineer · System Design Enthusiast
+college    : Graphic Era University (GEU), Dehradun
+community  : Vice President @ GEU-ACM Student Chapter
+focus      : MERN Stack · Machine Learning · DevOps · System Architecture
+interests  : Scalable Systems · Real-time Applications · Neural Networks
+```
 
-## 🛠️ Tech Stack
+<br/>
 
 <div align="center">
 
-### Languages
+## 🛠️ Tech Stack
+
+</div>
+
+<div align="center">
+
+**Languages**
+
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -35,32 +50,44 @@ Computer Science student specializing in building **production-ready, scalable s
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### Frontend Development
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+**Frontend**
 
-### Backend Development
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Leaflet.js](https://img.shields.io/badge/Leaflet.js-199900?style=for-the-badge&logo=leaflet&logoColor=white)
+
+**Backend**
+
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=fastapi&logoColor=white)
 
-### AI/ML & Data Science
+**AI / ML & Data Science**
+
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/XGBoost-337AB7?style=for-the-badge)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
-### Databases
+**Databases**
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
-### DevOps & Tools
+**DevOps & Tools**
+
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-### AI Tools
+**AI Tools**
+
 ![Claude](https://img.shields.io/badge/Claude-181818?style=for-the-badge&logo=anthropic&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white)
 ![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
@@ -70,47 +97,105 @@ Computer Science student specializing in building **production-ready, scalable s
 
 ---
 
-## 💼 Featured Projects
+<div align="center">
 
-### 🚌 [UNI-Bus - University Bus Tracking System](https://github.com/AMAN6921/GeuBus-Smart-DBMS-Based-Bus-Management-System)
-**Real-time GPS-based bus tracking system for educational institutions**
+## 🚀 Featured Projects
 
-- 🏗️ Built full-stack MERN application with **8 RESTful API endpoints** managing **200+ buses** and **5000+ students**
-- 📍 Integrated **live GPS tracking** with dual-location mapping and **30-second real-time updates**
-- 🔐 Implemented **JWT authentication** with role-based access control for admin, driver, and student portals
-- ⚡ Reduced average student wait time significantly with live journey status updates and improved arrival accuracy
+</div>
 
-**Tech Stack:** `React.js` `Node.js` `Express.js` `MySQL` `Socket.io` `Leaflet.js` `REST API`
+### 🌐 [UNI Connect — Academic Networking Platform](https://github.com/AMAN6921)
+
+> *A full-stack social and professional networking platform built exclusively for Indian university students and professors.*
+
+UNI Connect replicates the collaborative dynamics of a professional network — but scoped entirely to the university ecosystem. Students and professors can share updates, post and discover research/collaboration projects, resolve doubts in community forums, and schedule structured interviews — all behind a university-email-gated authentication system.
+
+**Core Modules:**
+
+| Module | Highlights |
+|---|---|
+| 🔐 **Auth** | University-email-only registration · JWT tokens · bcrypt password hashing · Role-based access (Student / Professor) |
+| 📰 **Social Feed** | Text + multi-image posts (up to 4) · Like, comment, edit, delete · Real-time feed updates |
+| 🤝 **Projects** | Create research/collaboration projects · Join request workflow · Interview-based member selection · Auto-skill tagging from tech stack |
+| 💬 **Discussion Forums** | Community Q&A · Tag-based questions · Accepted answer marking · Image support |
+| 📅 **Interview System** | Peer-to-peer interview scheduling · Accept / Decline / Propose alternate time · Google Meet integration · Full status lifecycle tracking |
+| 👤 **Profiles** | Reputation points · Auto-populated skills from projects · Post and project history |
+
+**Architecture:**
+
+```
+Frontend  →  React.js · Tailwind CSS · Axios · Context API · React Router
+Backend   →  Node.js · Express.js · MongoDB · Mongoose · JWT · bcryptjs
+Security  →  University email validation · Hashed passwords · Protected middleware · CORS
+```
+
+**API Surface:** 20+ RESTful endpoints across Auth, Posts, Projects, Forums, and Interviews
+
+[![View Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AMAN6921)
+&nbsp;
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
 
 ---
 
-### 🎓 [Sikhsha-Box - Containerized Virtual Education System](https://github.com/AMAN6921/SikhshaBox-Lightweight-OS-Virtualization-For-Affordable-Education-Labs)
-**Docker-based virtual lab environment for programming education**
+### 🚌 [UNI-Bus — University Bus Tracking System](https://github.com/AMAN6921/GeuBus-Smart-DBMS-Based-Bus-Management-System)
 
-- 🐳 Engineered real-time **container management system** enabling teachers to create isolated workspaces with custom resource limits
-- 🌐 Delivered **browser-based terminal** requiring zero local setup using Docker virtualization
-- ⚡ Deployed fully-configured workspaces with **8+ programming languages** in **under 10 seconds** (vs 2-5 minutes for VMs)
-- 💰 Reduced infrastructure costs by **70%** through containerization, eliminating need for high-end local hardware
+> *Real-time GPS-based bus tracking system for educational institutions.*
 
-**Tech Stack:** `Docker` `Shell Scripting` `Node.js` `React` `Linux` `Container Orchestration`
+A full-stack MERN application with **8 RESTful API endpoints** designed to manage **200+ buses** and **5000+ students**. Features live GPS tracking with dual-location mapping, **30-second real-time position updates**, JWT authentication with role-based access control for admin, driver, and student portals, and live journey status updates to reduce student wait times.
+
+[![View Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AMAN6921/GeuBus-Smart-DBMS-Based-Bus-Management-System)
+&nbsp;
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white)
+![Leaflet.js](https://img.shields.io/badge/Leaflet.js-199900?style=flat-square&logo=leaflet&logoColor=white)
+
+---
+
+### 🎓 [Sikhsha-Box — Containerized Virtual Education System](https://github.com/AMAN6921/SikhshaBox-Lightweight-OS-Virtualization-For-Affordable-Education-Labs)
+
+> *Docker-based virtual lab environment for browser-accessible programming education.*
+
+Engineered a real-time container management system enabling teachers to spin up isolated workspaces with custom resource limits. Delivers a **browser-based terminal** with zero local setup, supports **8+ programming languages**, and provisions fully-configured environments in **under 10 seconds** compared to 2–5 minutes for traditional VMs. Achieved **70% infrastructure cost reduction** through containerization, eliminating the need for high-end local hardware.
+
+[![View Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AMAN6921/SikhshaBox-Lightweight-OS-Virtualization-For-Affordable-Education-Labs)
+&nbsp;
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Shell](https://img.shields.io/badge/Shell_Script-121011?style=flat-square&logo=gnu-bash&logoColor=white)
 
 ---
 
-### 🤖 [PALP-AI - Loan Allocation Using ML & Neural Processing](https://github.com/AMAN6921/A-Practical-Pre-Approved-Loan-Allocation-Model-Using-Machine-Learning-Algorithms-Neural-Processing)
-**AI-powered loan eligibility prediction system with ensemble learning**
+### 🤖 [PALP-AI — Pre-Approved Loan Prediction System](https://github.com/AMAN6921/A-Practical-Pre-Approved-Loan-Allocation-Model-Using-Machine-Learning-Algorithms-Neural-Processing)
 
-- 🎯 Built ensemble ML model using **5 algorithms** (XGBoost, Random Forest, Logistic Regression, KNN, MLP) achieving **94.5% accuracy**
-- 🔄 Implemented complete **ML pipeline** with preprocessing, feature engineering, and weighted ensemble voting
-- 📊 Designed full-stack application with **real-time prediction API** delivering results with confidence scores
-- ⚡ Optimized endpoints (prediction, health check, dashboard stats) with **sub-2 second response time**
+> *AI-powered loan eligibility prediction using ensemble machine learning and neural processing.*
 
-**Tech Stack:** `Python` `Flask` `React` `XGBoost` `scikit-learn` `Pandas` `NumPy` `REST API`
+Built an ensemble ML model combining **5 algorithms** — XGBoost, Random Forest, Logistic Regression, KNN, and MLP — with weighted ensemble voting to achieve **94.5% prediction accuracy**. Implemented a complete ML pipeline covering preprocessing, feature engineering, and model training, paired with a full-stack application exposing a **real-time prediction API** delivering results with confidence scores in **under 2 seconds**.
+
+[![View Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AMAN6921/A-Practical-Pre-Approved-Loan-Allocation-Model-Using-Machine-Learning-Algorithms-Neural-Processing)
+&nbsp;
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![XGBoost](https://img.shields.io/badge/XGBoost-337AB7?style=flat-square)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 
 ---
+
+<div align="center">
 
 ## 📊 GitHub Analytics
 
 </div>
+
+<br/>
 
 <div align="center">
 
@@ -118,36 +203,64 @@ Computer Science student specializing in building **production-ready, scalable s
 
 </div>
 
+<br/>
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AMAN6921&bg_color=1a1b27&color=628fdb&line=2e9ef7&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+<br/>
+
+<div align="center">
+
+[![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AMAN6921&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+</div>
+
 ---
 
-## 🎯 Achievements & Leadership
+<div align="center">
 
-- 🏅 **Vice President - GEU-ACM Student Chapter** | Led **3+ large-scale technical events** with **500+ participants** including competitive programming, debugging contests, mini hackathons, and workshops
-- 📜 **Certified Full-Stack Web Developer - Geeks for Geeks (2026)** | Completed comprehensive course with **1300+ modules** covering real-time project development
-- 👨‍💼 **Elected Team Leader 7 times** for project-based learning | Led execution from planning to final submission, consistently delivering high-quality projects
-- 🎤 **Represented Dehradun District** at AIESEC Debate Competition | Active participant in debates and group discussions
+## 🏆 Achievements & Leadership
+
+</div>
+
+<br/>
+
+- 🏅 **Vice President — GEU-ACM Student Chapter** | Led **3+ large-scale technical events** with **500+ participants** — competitive programming contests, debugging challenges, mini hackathons, and developer workshops
+- 📜 **Certified Full-Stack Web Developer — Geeks for Geeks (2026)** | Completed a comprehensive program spanning **1300+ modules** with hands-on real-time project development
+- 👨‍💼 **Elected Team Leader — 7 times** across project-based learning | Consistently drove end-to-end execution from planning through final delivery
+- 🎤 **Represented Dehradun District** at the AIESEC Debate Competition | Active participant in inter-institutional debates and group discussions
 
 ---
+
+<div align="center">
 
 ## 🌱 Current Focus
 
+</div>
+
 ```javascript
 const currentFocus = {
-    learning: ["System Design", "Microservices Architecture", "Advanced ML Algorithms"],
-    building: ["Scalable MERN Applications", "AI-Powered Solutions", "Cloud-Native Systems"],
-    exploring: ["Distributed Systems", "Real-time Data Processing", "Container Orchestration"],
-    improving: ["DSA Problem Solving", "Code Optimization", "System Architecture"]
+    learning:   ["System Design", "Microservices Architecture", "Advanced ML Algorithms"],
+    building:   ["Scalable MERN Applications", "AI-Powered Solutions", "Cloud-Native Systems"],
+    exploring:  ["Distributed Systems", "Real-time Data Processing", "Container Orchestration"],
+    improving:  ["DSA Problem Solving", "Code Optimization", "System Architecture"]
 };
 ```
 
 ---
 
-## 📫 Let's Connect
-
 <div align="center">
 
+## 🤝 Connect With Me
+
 [![GitHub](https://img.shields.io/badge/GitHub-AMAN6921-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AMAN6921)
+&nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Aman_Devrani-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/amandevrani)
+&nbsp;
 [![Email](https://img.shields.io/badge/Email-aman.devrani6921%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aman.devrani6921@gmail.com)
 
 </div>
@@ -156,8 +269,14 @@ const currentFocus = {
 
 <div align="center">
 
-### 💻 "It works on my machine ¯\_(ツ)_/¯"
+<img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake Animation" width="100%"/>
 
-⭐️ From [AMAN6921](https://github.com/AMAN6921)
+</div>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2e9ef7,50:1a3a5c,100:0d1117&height=100&section=footer" width="100%"/>
+
+<sub>Built with precision · Driven by curiosity · From [AMAN6921](https://github.com/AMAN6921)</sub>
 
 </div>
